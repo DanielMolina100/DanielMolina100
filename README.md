@@ -1,6 +1,5 @@
 
 <h1 align="center">QUE ONDA SOY DANIEL MOLINA</h1>
-<h3 align="center">A passionate![giphy](https://user-images.githubusercontent.com/63918000/222745024-d031757d-2484-4443-92bd-87ed234501db.gif)
  frontend developer from Guatemala</h3>
 <iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="[https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE](https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE)">via GIPHY</a></p>
 
