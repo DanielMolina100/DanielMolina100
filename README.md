@@ -1,7 +1,7 @@
 
 <h1 align="center">QUE ONDA SOY DANIEL MOLINA</h1>
  frontend developer from Guatemala</h3>
-<img src="[https://pin.it/24c1WpT](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)" width="240" height="240"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://github.com/DanielMolina100/DanielMolina100/blob/main/12c5a0c1637b76464d77945aa3b5d77a.jpg" width="240" height="240"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmolina100&label=Profile%20views&color=0e75b6&style=flat" alt="danielmolina100" /> </p>
 
