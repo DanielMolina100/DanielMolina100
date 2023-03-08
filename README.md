@@ -2,7 +2,7 @@
 <h1 align="center">QUE ONDA SOY DANIEL MOLINA</h1>
  developer from Guatemala</h3>
 
-<img src="https://github.com/DanielMolina100/DanielMolina100/blob/main/12c5a0c1637b76464d77945aa3b5d77a.jpg" width="140" height="240"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://github.com/DanielMolina100/DanielMolina100/blob/main/12c5a0c1637b76464d77945aa3b5d77a.jpg" width="140" height="240"/> <img src="https://github.com/DanielMolina100/DanielMolina100/blob/main/Free%20Photo%20_%20Top%20view%20of%20unrecognizable%20hacker%20performing%20cyberattack%20at%20night.jpg" width="140" height="240"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmolina100&label=Profile%20views&color=0e75b6&style=flat" alt="danielmolina100" /> </p>
 
