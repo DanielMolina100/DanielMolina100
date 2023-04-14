@@ -1,6 +1,6 @@
 
-<h1 align="center">QUE ONDA SOY DANIEL MOLINA</h1>
- Developer from Guatemala</h3>
+<h1 align="center">ING. DANIEL MOLINA</h1>
+ <h3 align="center">Developer from Guatemala</h3>
 
 
 <div align="center">
