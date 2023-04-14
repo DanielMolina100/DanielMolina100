@@ -1,9 +1,13 @@
 
 <h1 align="center">QUE ONDA SOY DANIEL MOLINA</h1>
- developer from Guatemala</h3>
+ Developer from Guatemala</h3>
 
-<img src="https://github.com/DanielMolina100/DanielMolina100/blob/main/12c5a0c1637b76464d77945aa3b5d77a.jpg" width="140" height="240"/> <img src="https://github.com/DanielMolina100/DanielMolina100/blob/main/Free%20Photo%20_%20Top%20view%20of%20unrecognizable%20hacker%20performing%20cyberattack%20at%20night.jpg" width="140" height="240"/>
 
+<div align="center">
+  <a href="https://media.giphy.com/media/l3q2KRkOVYvi8WfU4/giphy.gif">
+    <img src="https://media.giphy.com/media/l3q2KRkOVYvi8WfU4/giphy.gif" alt="Descripción de tu GIF">
+  </a>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmolina100&label=Profile%20views&color=0e75b6&style=flat" alt="danielmolina100" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
